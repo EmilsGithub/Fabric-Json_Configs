@@ -1,4 +1,4 @@
-# Configuration System Overview 
+# Fabric-Json Configs Overview 
 This project includes a flexible and robust configuration system designed to manage mod settings within a Minecraft mod using the Fabric API. The configuration system allows you to define and manage mod-specific settings in a structured and maintainable way.
 
 ## Key Classes 
